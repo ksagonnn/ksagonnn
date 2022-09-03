@@ -3,7 +3,7 @@
 
 - I’m currently working on **a small data exchange program using UNIX signals**
 
-- I’m currently learning **Unix, Algorithms & AI**
+- I’m currently learning **HTML**
 
 - Some of my projects are available on [https://github.com/ksagonnn](https://github.com/ksagonnn)
 
