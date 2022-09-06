@@ -1,6 +1,6 @@
 <h1 align="center">My name is Ksénia</h1>
 <h3 align="center">42 student from Lausanne, Switzerland</h3>
-<h4 align="center">also Code first Girls student</h4> 
+<h4 align="center">also CodeFirstGirls</h4> 
 
 - I’m currently working on **a small data exchange program using UNIX signals**
 
