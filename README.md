@@ -4,7 +4,7 @@
 
 - I’m currently working on **a small data exchange program using UNIX signals**
 
-- I’m currently learning **HTML**
+- I’m currently learning **Javascript**
 
 - Some of my projects are available on [https://github.com/ksagonnn](https://github.com/ksagonnn)
 
