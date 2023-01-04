@@ -2,9 +2,9 @@
 <h3 align="center">42 student from Lausanne, Switzerland</h3>
 <h4 align="center">also CodeFirstGirls</h4> 
 
-- I’m currently working on **a small data exchange program using UNIX signals**
+- I’m currently working on **a photographer's website**
 
-- I’m currently learning **Javascript**
+- I’m currently learning **Python**
 
 - Some of my projects are available on [https://github.com/ksagonnn](https://github.com/ksagonnn)
 
