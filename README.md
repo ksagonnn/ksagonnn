@@ -1,9 +1,9 @@
 <h1 align="center">My name is Ksénia</h1>
 <h3 align="center">42 student from Lausanne, Switzerland</h3>
 
-- I’m currently working on **a new website**
+- I’m currently working on **a new portfolio website for my work**
 
-- I’m currently learning **Python**
+- I’m currently learning **Machine learning with Python**
 
 - Some of my projects are available on [https://github.com/ksagonnn](https://github.com/ksagonnn)
 
